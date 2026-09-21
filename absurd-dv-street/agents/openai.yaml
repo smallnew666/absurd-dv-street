@@ -1,0 +1,13 @@
+interface:
+  display_name: 荒诞 DV 街头
+  short_description: 生成路人淡定、现实可信又离奇多变的旧DV街头影像风格
+  default_prompt: 使用 $absurd-dv-street 生成5张干燥地面的重庆梦核荒诞DV图片，每张使用完全不同的场景、主体、动作、道具与梦核线索。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
